@@ -1,0 +1,39 @@
+canvas{
+    border: 3.5px darkcyan dashed;
+    width: 1185px;
+    height: 600px;
+
+}
+
+header {
+    border: 5px solid black;
+    background-color: white;
+    padding-left: 500px;
+}
+
+nav {
+    border: 5px solid black;
+    background-color: white;
+    padding-left: 10;
+}
+
+footer {
+    border: 5px solid black;
+    background-color: white;
+    padding-left: 10;}
+
+#contacts {
+    border: 4px dashed green;
+    color: blue;
+    
+    padding-left: 15px;
+    padding-right: 15px;
+    }
+    
+#home {
+    border: 4px dashed green;
+    color: blue;
+    
+    padding-left: 15px;
+    padding-right: 15px;
+    }

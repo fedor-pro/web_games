@@ -1,0 +1,74 @@
+body {
+    /*background-color: rgb(204, 223, 81);*/
+    background-color: white;
+}
+
+header {
+    border: 5px solid blue;
+    background-color: white;
+    padding-left: 500px;
+}
+
+nav {
+    border: 5px solid brown;
+    background-color: white;
+    padding-left: 10;
+}
+
+main {
+    border: 5px solid blue;
+    background-color: silver;
+    border-left: 5px dotted blueviolet;
+
+    padding-left: 10px;
+}
+
+
+
+footer {
+    border: 5px solid brown;
+    background-color: silver;
+    padding-left: 10;}
+
+#main_head {
+    color: black;
+}
+
+#contacts {
+    border: 4px dashed green;
+    color: blue;
+
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#home {
+    border: 4px dashed green;
+    color: blue;
+
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#about_me_list {
+    color: blue;
+    font-size: 20px;
+
+    padding-left: 20px;
+}
+
+#games {
+    border: 4px dashed red;
+    color: blue;
+
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.new{
+    border: 3px solid seagreen;
+    color: darkcyan;
+
+    font-size: 25px;
+    padding: 20px;
+}
