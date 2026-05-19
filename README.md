@@ -1,1 +1,3 @@
-### web_games
+# Web games on JS
+
+Abandoned project
