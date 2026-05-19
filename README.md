@@ -2,4 +2,4 @@
 
 My cite with games on canvas.js.
 
-Abandoned project.
+Abandoned project. Reason: i'm over it
